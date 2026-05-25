@@ -121,4 +121,4 @@ Kolom turunan (`fasilitas`, `aksesibilitas`, `popularitas`) dibangkitkan secara 
 
 
 
-> Dibuat untuk keperluan akademis — Sistem Pendukung Keputusan, Universitas/Prodi terkait.
+> Dibuat untuk keperluan akademis — Praktikum Sistem Cerdas Pendukung Keputusan.
