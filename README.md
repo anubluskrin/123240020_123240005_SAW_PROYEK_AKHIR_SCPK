@@ -43,9 +43,8 @@ Simple Additive Weighting (SAW) adalah metode MADM (*Multi-Attribute Decision Ma
 ```
 spk-wisata-jogja/
 ├── app.py                  # Aplikasi utama Streamlit
-├── tourism_jogja.csv       # Dataset 437 destinasi wisata
-├── requirements.txt        # Dependensi Python
-└── README.md
+└── tourism_jogja.csv       # Dataset 437 destinasi wisata
+
 ```
 
 ---
