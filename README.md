@@ -30,11 +30,11 @@ Simple Additive Weighting (SAW) adalah metode MADM (*Multi-Attribute Decision Ma
 
 | Kode | Kriteria | Tipe | Keterangan |
 |---|---|---|---|
-| C1 | Rating Wisatawan | Benefit | Nilai rating dari pengunjung (skala 1–5) |
+| C1 | Rating Wisatawan | Benefit | Nilai rating dari pengunjung |
 | C2 | Harga Tiket (HTM) | Cost | Harga tiket masuk dalam Rupiah |
-| C3 | Fasilitas | Benefit | Skor fasilitas berdasarkan jenis wisata (1–5) |
-| C4 | Aksesibilitas | Benefit | Skor kemudahan akses ke lokasi (2–5) |
-| C5 | Popularitas | Benefit | Skor popularitas berbasis rating (1–5) |
+| C3 | Jarak Destinasi dari Titik Nol Yogyakarta | Cost | Skor fasilitas berdasarkan jenis wisata |
+| C4 | Kategori Wisata | Benefit | Skor kemudahan akses ke lokasi |
+| C5 | Popularitas | Benefit | Skor popularitas berbasis rating |
 
 ---
 
