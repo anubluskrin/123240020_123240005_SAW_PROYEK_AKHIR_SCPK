@@ -113,7 +113,7 @@ if halaman == "Beranda":
     st.info(
         "Sistem ini membantu wisatawan memilih destinasi terbaik di Yogyakarta "
         "berdasarkan 5 kriteria menggunakan metode Simple Additive Weighting (SAW). "
-        "Seluruh kriteria diturunkan dari data asli dataset — tidak ada nilai simulasi."
+        "Seluruh kriteria diturunkan dari data asli dataset."
     )
 
     st.markdown("### Kriteria Penilaian")
